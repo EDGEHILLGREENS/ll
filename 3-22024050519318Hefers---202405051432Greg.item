@@ -1,3 +1,8 @@
+owner: 202405051432Greg
 starting_bid: 1111
-product_video: link2
-product_description: blah blah blah
+current_bid: with product_ID check bidlist for highest bid if duplicates use earliest.
+product_ID:2024050519318Hefers---202405051432Greg
+product_video: www.link1.com
+product_description: Blah blah
+product_title: Blah
+expiry: 202407251942
